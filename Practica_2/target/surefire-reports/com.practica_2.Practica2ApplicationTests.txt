@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.practica_2.Practica2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.452 s -- in com.practica_2.Practica2ApplicationTests
